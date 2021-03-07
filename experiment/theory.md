@@ -1,6 +1,6 @@
 #### Heaps' Law
 
-The relation between types and tokens can be explained by the Heaps' law (also called Herdan's law) which describes the number of distinct words in a document (types) as a function of the document length(tokens). It can be formulated as:
+The relation between types and tokens can be explained by the **Heaps' law** (also called Herdan's law) which describes the number of distinct words in a document (types) as a function of the document length(tokens). It can be formulated as:
 
 <p align="center">V = f(n) = Kn<sup>&#946;</sup></p>
 
